@@ -1,5 +1,5 @@
 {
-  "name": "@kdv24/ejs-webpack-loader",
+  "name": "@clarity/ejs-webpack-loader",
   "version": "3.0.0",
   "description": "EJS webpack 4.x loader (without frontend dependencies)",
   "main": "index.js",
@@ -19,9 +19,9 @@
   "author": "Kelly de Vries <kdv@me.com>",
   "license": "MIT",
   "bugs": {
-    "url": "git@github.com:kdv24/ejs-webpack-loader.git/issues"
+    "url": "git@github.com:clarity-innovations/ejs-webpack-loader.git/issues"
   },
-  "homepage": "git@github.com:kdv24/ejs-webpack-loader.git",
+  "homepage": "git@github.com:clarity-innovations/ejs-webpack-loader.git",
   "dependencies": {
     "html-minifier": "^3",
     "loader-utils": "^0.2.7",
