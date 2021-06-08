@@ -1,6 +1,6 @@
 {
-  "name": "@clarity/ejs-webpack-loader",
-  "version": "3.0.0",
+  "name": "@clarity-innovations/ejs-webpack-loader",
+  "version": "3.0.1",
   "description": "EJS webpack 4.x loader (without frontend dependencies)",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "loader",
     "template"
   ],
-  "author": "Kelly de Vries <kdv@me.com>",
+  "author": "Kelly de Vries <kdevries@clarity-innovations.com>",
   "license": "MIT",
   "bugs": {
     "url": "git@github.com:clarity-innovations/ejs-webpack-loader.git/issues"
